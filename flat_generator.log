@@ -1,0 +1,7 @@
+2024-07-21 12:04:11.790347 - Function: flat_generator - args: ([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],), kwargs: {} - Result: <generator object flat_generator at 0x00000226985836B0>
+2024-07-21 12:04:11.790852 - Function: flat_generator - args: ([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],), kwargs: {} - Result: <generator object flat_generator at 0x00000226985836B0>
+2024-07-21 12:04:11.790852 - Function: flat_generator - args: ([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],), kwargs: {} - Result: <generator object flat_generator at 0x00000226985836B0>
+2024-07-21 12:04:11.791154 - Function: flat_generator - args: ([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],), kwargs: {} - Result: <generator object flat_generator at 0x00000226985836B0>
+2024-07-21 12:04:51.844005 - Function: flat_generator - args: ([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],), kwargs: {} - Result: <generator object flat_generator at 0x0000015CA5D236B0>
+2024-07-21 12:04:51.845105 - Function: flat_generator - args: ([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],), kwargs: {} - Result: <generator object flat_generator at 0x0000015CA5D236B0>
+2024-07-21 12:04:51.845105 - Function: flat_generator - args: ([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],), kwargs: {} - Result: <generator object flat_generator at 0x0000015CA5D236B0>
